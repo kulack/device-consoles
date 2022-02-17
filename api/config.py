@@ -1,3 +1,6 @@
+#
+# Copyright 2022 Fred A. Kulack kulack@gmail.com
+#
 import os
 from dataclasses import dataclass
 from getpass import getpass

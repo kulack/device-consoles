@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+#
+# Copyright 2022 Fred A. Kulack kulack@gmail.com
+#
 
 IMAGE=fkulack/device-consoles
 TAG=1.0.0

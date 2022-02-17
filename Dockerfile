@@ -1,3 +1,6 @@
+#
+# Copyright 2022 Fred A. Kulack kulack@gmail.com
+#
 # Use the non-slim version for shell and some utilities for a bit
 FROM python:3.9-bullseye
 # FROM python:3.9-slim-bullseye

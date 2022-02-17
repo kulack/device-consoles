@@ -1,3 +1,6 @@
+#
+# Copyright 2022 Fred A. Kulack kulack@gmail.com
+#
 import json
 import sys
 import logging

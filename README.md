@@ -53,3 +53,7 @@ The file generated above looks like this:
   * Cache the page
   * Cron job to refresh the page every intermittently 
 
+# Copyright
+
+Copyright 2022 Fred A. Kulack kulack@gmail.com
+

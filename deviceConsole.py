@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-import json
-import argparse
+#
+# Copyright 2022 Fred A. Kulack kulack@gmail.com
+#
 from api.config import Config
 from api import drm
 
